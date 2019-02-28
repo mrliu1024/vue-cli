@@ -1,0 +1,8 @@
+1 vue-cli 基于全局的 vue包 npm i vue -g
+2 安装 npm i vue-cli -g
+3 查看版本号 , vue -v 
+4 使用 : vue init webpack-simple  cms(项目名)
+5 npm i 下载包, 启动 npm run dev (可以自己修改 端口号 )
+
+
+vue-cli 脚手架 , 用于快速开发 , 提高效率的东西, 注意使用 ;
